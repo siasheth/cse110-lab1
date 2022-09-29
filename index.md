@@ -1,5 +1,5 @@
 # My User Page
-Welcome to my user page.\
+Welcome to my user page.
 
 ## Contents
 - [My User Page](#my-user-page)
@@ -12,10 +12,11 @@ Welcome to my user page.\
 
 ## Introduction
 Hi everyone! My name is *Sia Sheth*.\
-![This is what me and my friends look like](/9.jpg)
+This is what me and my friends look like:
+![me n friends](/9.jpg)
 
 ## Things I enjoy 
-> I have always enjoyed Computer Science and Mathematics.\
+> I have always enjoyed Computer Science and Mathematics.
 I enjoy `coding` as well as:
 ```
 playing the piano
