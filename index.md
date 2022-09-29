@@ -1,5 +1,5 @@
 # My User Page
-Welcome to my user page.
+Welcome to my user page.\
 
 ## Contents
 - [My User Page](#my-user-page)
@@ -11,11 +11,11 @@ Welcome to my user page.
   - [What's in my future?](#whats-in-my-future)
 
 ## Introduction
-Hi everyone! My name is *Sia Sheth*.
-![This is what I look like](/IMG_1692.jpeg)
+Hi everyone! My name is *Sia Sheth*.\
+![This is what me and my friends look like](/9.jpg)
 
 ## Things I enjoy 
-> I have always enjoyed Computer Science and Mathematics.
+> I have always enjoyed Computer Science and Mathematics.\
 I enjoy `coding` as well as:
 ```
 playing the piano
@@ -24,9 +24,10 @@ going to the gym
 ```
 
 ### More about me!
-You can view my Github Page using this [link](https://github.com/siasheth).
+You can view my Github Page using this [link](https://github.com/siasheth).\
 You can view my README [here](README.md).
-![This is my favourite coding meme](https://interestingengineering.com/_next/image?url=https%3A%2F%2Fd2kspx2x29brck.cloudfront.net%2F1200x675%2Ffilters%3Aformat(webp)%2Fimg%2Fiea%2FyrwQvLJbON%2Fprogrammer-memes.jpg&w=3840&q=75).
+This is my favourite coding meme:
+![coding meme](https://interestingengineering.com/_next/image?url=https%3A%2F%2Fd2kspx2x29brck.cloudfront.net%2F1200x675%2Ffilters%3Aformat(webp)%2Fimg%2Fiea%2FyrwQvLJbON%2Fprogrammer-memes.jpg&w=3840&q=75).
 
 ## My background
 My familiy consists of:
