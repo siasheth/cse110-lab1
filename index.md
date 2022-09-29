@@ -16,7 +16,7 @@ This is what me and my friends look like:
 ![me n friends](/9.jpg)
 
 ## Things I enjoy 
-> I have always enjoyed Computer Science and Mathematics.\
+> I have always enjoyed Computer Science and Mathematics.
 
 I enjoy `coding` as well as:
 ```
